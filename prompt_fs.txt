@@ -1,0 +1,17 @@
+Given the following question and answer, identify any portions of the answer that contain hallucinated information or unsupported claims.
+
+Question: When was the restoration of the Sándor Palace completed?
+Answer: The restoration of Sándor Palace, also known as the Buda Castle, was completed in several phases. The most significant restoration took place between 1950 and 1961 under the supervision of Hungarian architects Győző Csaplár and Lajos Késmárki. However, it's important to note that various parts of the palace continued to be restored and renovated throughout the decades following this period. Therefore, it is not accurate to pinpoint an exact completion date for the entire restoration project.
+Hallucination Span in Answer: Buda Castle || 1950 and 1961 || under the supervision of Hungarian architects || Győző Csaplár  || Lajos Késmárki || it is not accurate to pinpoint an exact completion date
+
+Question: Did the Scotland team debut in the UEFA Euro 1996 qualifying phase?
+Answer: Yes, Scotland made their debut in the UEFA Euro 1996 qualifying phase. This was their first appearance in a European Championship qualifying campaign since the inception of the UEFA European Football Championship in 1960. Scotland finished third in their group behind England and Switzerland, missing out on qualification for the tournament.
+Hallucination Span in Answer: Yes || 1996 || first appearance || finished third || behind England and Switzerland || missing out on qualification
+
+Question: Over which state did Xiong Ai rule?
+Answer: Xiong Ai was a Chinese warlord who lived during the Warring States period (475-221 BC). He ruled over the state of Xiongnu, which is modern-day Mongolia rather than a Chinese state. The Xiongnu were an influential nomadic confederation that posed a significant threat to China during this time. Therefore, Xiong Ai's rule was not over a Chinese state but rather over the Xiongnu people.
+Hallucination Span in Answer: warlord || during || (475-221 BC) || ruled over the state of Xiongnu || - || Xiong Ai's rule was not over a Chinese state but rather over the Xiongnu people
+
+Question: {}
+Answer: {}
+Hallucination Span in Answer: 
